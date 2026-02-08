@@ -1,0 +1,12 @@
+License
+README.md
+pyproject.toml
+setup.py
+idr/__init__.py
+idr/__main__.py
+idr/enhancer.py
+image_illumination_restoration.egg-info/PKG-INFO
+image_illumination_restoration.egg-info/SOURCES.txt
+image_illumination_restoration.egg-info/dependency_links.txt
+image_illumination_restoration.egg-info/requires.txt
+image_illumination_restoration.egg-info/top_level.txt
